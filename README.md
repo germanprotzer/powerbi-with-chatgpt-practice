@@ -10,10 +10,8 @@ Throughout the course, I learned and applied:
 - Practical challenges to reinforce each main topic
 - Understanding AI strengths and limitations when supporting analytics work
 
-## Repository structure
-- `/exercises` → Practice files and course challenges
-- `/notes` → Key learnings, prompt ideas, and workflow notes
-- `/assets` → Screenshots (optional)
+## Exercises
+- Practice files and course challenges
 
 ## Key takeaway
 Chat-based AI can help speed up analysis and reduce friction — **but it’s only valuable if it improves decision-making and data quality**.
