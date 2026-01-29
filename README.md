@@ -1,4 +1,4 @@
-# Power BI: Working Together with ChatGPT 🤖📊
+# Power BI: Working Together with ChatGPT 
 
 This repository contains my practice files and notes from the **Power BI: Working Together with ChatGPT** course (LinkedIn Learning).
 
